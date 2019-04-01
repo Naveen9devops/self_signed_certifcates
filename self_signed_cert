@@ -12,3 +12,10 @@ What is the two-letter country code for this unit?
   [Unknown]:  in
 Is CN=naveen, OU=local, O=local, L=ts, ST=ts, C=in correct?
   [no]:  yes
+keytool -genkey -noprompt \
+ -alias alias1 \
+ -dname "CN=local.com, OU=ID, O=IBM, L=Hursley, S=Hants, C=GB" \
+ -keystore keystore \
+ -storepass password \
+ -keypass password
+ keytool-genkeypair
