@@ -1,0 +1,14 @@
+What is your first and last name?
+  [Unknown]:  naveen
+What is the name of your organizational unit?
+  [Unknown]:  local
+What is the name of your organization?
+  [Unknown]:  local
+What is the name of your City or Locality?
+  [Unknown]:  ts
+What is the name of your State or Province?
+  [Unknown]:  ts
+What is the two-letter country code for this unit?
+  [Unknown]:  in
+Is CN=naveen, OU=local, O=local, L=ts, ST=ts, C=in correct?
+  [no]:  yes
